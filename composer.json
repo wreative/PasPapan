@@ -15,7 +15,7 @@
         "blade-ui-kit/blade-icons": "^1.6",
         "endroid/qr-code": "^5.0",
         "intervention/image": "^3.6",
-        "laravel/framework": "^11.9",
+        "laravel/framework": "^12.69",
         "laravel/jetstream": "^5.1",
         "laravel/reverb": "^1.10",
         "laravel/sanctum": "^4.0",
